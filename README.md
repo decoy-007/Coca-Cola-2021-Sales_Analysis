@@ -33,3 +33,6 @@ Key Insights
 
 • A small number of retailers accounted for a significant percentage of revenue.
 
+---
+Created by Thabiso Keith Kgole Aspiring Data Analyst | SQL | Power BI | Excel
+
