@@ -1,5 +1,6 @@
 Project overview
 
+This project analyzes Coca-Cola's 2021 sales performance across the United States using SQL and Power BI. The objective was to explore sales trends, identify top-performing products and retailers, evaluate regional performance, and uncover key business insights that could support data-driven decision-making.
 
 ---
 Business Problem
